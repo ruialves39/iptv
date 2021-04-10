@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TV AO VIVO
+#EXTBG:https://i.imgur.com/KLF9P7F.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=1
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES
+#EXTBG:https://i.imgur.com/eA4gKf9.png 
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=2
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", SÉRIES
+#EXTBG:https://i.imgur.com/4vdYKIH.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=3
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", 24 HORAS
+#EXTBG:https://i.imgur.com/R87uGsB.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=4
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", NOVELAS
+#EXTBG:https://i.imgur.com/u32CPDI.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=5
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", DESENHOS
+#EXTBG:https://i.imgur.com/ol2GeQg.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=6
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", RÁDIOS
+#EXTBG:https://i.imgur.com/hOm75es.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=7
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ADULTOS
+#EXTBG:https://i.imgur.com/MqZhyIH.png
+http://ss.5ce.me/get.php?username=a07k01&password=60f4028&type=m3u_plus&output=ts&category=8
