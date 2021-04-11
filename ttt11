@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TV AO VIVO
+#EXTBG:https://i.imgur.com/KLF9P7F.png
+http://ss.5ce.me/get.php?username=pr5597&password=5gn490k6&type=m3u_plus&output=ts&category=1
